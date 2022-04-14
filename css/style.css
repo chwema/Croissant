@@ -9,14 +9,15 @@ h1 {
 p {
   text-align: center;
 }
-a {
+footer a {
   color: blueviolet;
-  margin: 10px 10px 10px 10px;
-  text-align: center;
-  display: block;
+  margin: 0 10px;
 }
 img {
   display: block;
   border: 1px solid blue;
   border-radius: 4px;
+}
+footer {
+  text-align: center;
 }
