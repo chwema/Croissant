@@ -14,10 +14,12 @@ footer a {
   margin: 0 10px;
 }
 img {
+  max-width: 100;
+  border-radius: 10px;
   display: block;
-  border: 1px solid blue;
-  border-radius: 4px;
+  margin: 30px auto;
 }
+
 footer {
   text-align: center;
 }
