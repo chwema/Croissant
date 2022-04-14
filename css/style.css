@@ -1,0 +1,22 @@
+body {
+  background-color: aquamarine;
+  font-size: 18px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+a {
+  color: blueviolet;
+  margin: 10px 10px 10px 10px;
+  text-align: center;
+  display: block;
+}
+img {
+  display: block;
+  border: 1px solid blue;
+  border-radius: 4px;
+}
